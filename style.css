@@ -10,7 +10,7 @@
 	/* http://useyan.x0.com/s/html/expression/fixed.html */
 	top:
 		0;
-	_top: expression(document.documentElement && document.documentElement.scrollTop  || 
+	_top: expression(document.documentElement && document.documentElement.scrollTop  ||
 		document.body && body.scrollTop  || 0
 		+ 0 + 'px');
 	width:
@@ -21,7 +21,7 @@
 		0;
 	margin:
 		0;
-	
+
 	filter:
 		alpha(opacity=85, style=0);
 	opacity:
